@@ -1,0 +1,15 @@
+C:\Users\dmitr\source\repos\CRUDSQLServer\CRUDSQLServer\bin\Debug\CRUDSQLServer.exe.config
+C:\Users\dmitr\source\repos\CRUDSQLServer\CRUDSQLServer\bin\Debug\CRUDSQLServer.exe
+C:\Users\dmitr\source\repos\CRUDSQLServer\CRUDSQLServer\bin\Debug\CRUDSQLServer.pdb
+C:\Users\dmitr\source\repos\CRUDSQLServer\CRUDSQLServer\bin\Debug\EntityFramework.dll
+C:\Users\dmitr\source\repos\CRUDSQLServer\CRUDSQLServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dmitr\source\repos\CRUDSQLServer\CRUDSQLServer\bin\Debug\EntityFramework.xml
+C:\Users\dmitr\source\repos\CRUDSQLServer\CRUDSQLServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dmitr\source\repos\CRUDSQLServer\CRUDSQLServer\obj\Debug\CRUDSQLServer.Form1.resources
+C:\Users\dmitr\source\repos\CRUDSQLServer\CRUDSQLServer\obj\Debug\CRUDSQLServer.Properties.Resources.resources
+C:\Users\dmitr\source\repos\CRUDSQLServer\CRUDSQLServer\obj\Debug\CRUDSQLServer.csproj.GenerateResource.cache
+C:\Users\dmitr\source\repos\CRUDSQLServer\CRUDSQLServer\obj\Debug\CRUDSQLServer.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\CRUDSQLServer\CRUDSQLServer\obj\Debug\CRUDSQLServer.csproj.CopyComplete
+C:\Users\dmitr\source\repos\CRUDSQLServer\CRUDSQLServer\obj\Debug\CRUDSQLServer.exe
+C:\Users\dmitr\source\repos\CRUDSQLServer\CRUDSQLServer\obj\Debug\CRUDSQLServer.pdb
+C:\Users\dmitr\source\repos\CRUDSQLServer\CRUDSQLServer\obj\Debug\CRUDSQLServer.csprojAssemblyReference.cache
